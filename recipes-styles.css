@@ -1,0 +1,53 @@
+
+h1{
+    text-align: center;
+    font-family: "Brush Script MT", "Comic Sans MS", cursive;
+    font-size: 50px;
+}
+
+.mango h1{
+    color: darkgoldenrod;
+}
+
+.spaghetti h1{
+    color: darkred;
+}
+
+.lasagna h1, .lasagna h2{
+    color: #6a2700;
+}
+
+.centered-image {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.mango h2{
+    color:darkgoldenrod;
+}
+
+.spaghetti h2{
+    color: darkred;
+}
+
+p, ul, ol {
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+body.mango{
+    background-color: lightgoldenrodyellow;
+}
+
+body.spaghetti{
+    background-color: lightsalmon;
+}
+
+body.lasagna{
+    background-color: #FA8334;
+}
