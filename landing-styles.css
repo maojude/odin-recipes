@@ -4,8 +4,31 @@ h1 {
     font-family: cursive;
     font-weight: bolder;
     color: brown;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px auto;
 }
 
-body{
+.selection{
     background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    height: 250px;
+}
+
+li{
+    display: inline-block;
+    margin: auto;
+    width: 260px;
+}
+body{
+    background-color: white;
+}
+
+.footer{
+    background-color: blanchedalmond;
+    height: 800px auto;
+    padding: 50px;
+    text-align: center;
 }
